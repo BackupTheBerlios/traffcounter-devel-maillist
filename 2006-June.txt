@@ -1,0 +1,15 @@
+From alenitchev at berlios.de  Wed Jun 14 14:23:16 2006
+From: alenitchev at berlios.de (Dmitri Alenitchev)
+Date: Wed, 14 Jun 2006 16:23:16 +0400
+Subject: [Traffcounter-devel] Traffcounter initial revision in CVS
+Message-ID: <9cb626460606140523kdcd8306gce22565cf4c5664f@mail.gmail.com>
+
+Hello.
+
+SNMP traffic counter initial revision placed in CVS.
+http://cvs.berlios.de/cgi-bin/viewcvs.cgi/traffcounter
+
+-- 
+Dmitri A. Alenitchev <dmitri at gnu.org>
+
+
